@@ -50,7 +50,7 @@ function Footer() {
                     </a>
                     </li>
                     <li className="foot-menu-item mbr-fonts-style display-7">
-                    <a href="#" className="text-white" >
+                    <a href="https://codex-landing-page-5h3q-5ek2p6bvg-redd-hope.vercel.app/" className="text-white" >
                         UserDashboard
                     </a>
                     </li>
