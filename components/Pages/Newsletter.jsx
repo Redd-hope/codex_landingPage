@@ -1,5 +1,5 @@
 import React from 'react'
-import Blog from '../forms/blog'
+import Blog from '../forms/Blog'
 function Newsletter() {
   return (
     <>
